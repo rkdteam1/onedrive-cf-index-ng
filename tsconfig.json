@@ -18,7 +18,6 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "noImplicitAny": false,
-    "platform": "node",
     "incremental": true
   },
   "include": [
